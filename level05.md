@@ -8,3 +8,5 @@ for i in /opt/openarenaserver/* ; do
         rm -f "$i"
 done
 ```
+
+flag05 : viuaaale9huek52boumoomioc
