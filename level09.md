@@ -6,8 +6,10 @@ puts("You should not reverse this"You should not reverse this
 +++ exited (status 1) +++
 ```
 
-cat token --> f 4 k m m 6 p | = � p �  n �  � D  B  � D  u  {  � �
-              0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
-              f 3 i j i 1 j u 5   f     b        5  2     2  b  g   
+token --> f 4 k m m 6 p | = � p �  n �  � D  B  � D  u  {  � �
+          0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22  
 
-f4kmm6p|=  M-^B^?   p   M-^B   n   M-^C    M-^B   D    B    M-^C   D   u  {  ^?M-^L   M-^I   <--encoded-->
+
+well after the inevitable i have what seems as the password for flag09 f3iji1ju5yuevaus41q1afiuq
+
+Don't forget to launch getflag xD : s5cAJpM8ev6XHw998pRWG728z
